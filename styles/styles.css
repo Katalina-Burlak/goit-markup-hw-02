@@ -5,7 +5,7 @@
     --akcent-color: color: #2196F3;
     --primary-font: font-family: 'Roboto', sans-serif;
     --secondary-font: font-family: 'Raleway', sans-serif;
-     --normal-font: 400;
+    --normal-font: 400;
     --meduim-font: 500;
     --bold-font: 700;
     --bolder-font: 900;
@@ -13,6 +13,8 @@
 }
 body {
     font-size: var(--primary-font-size);
+    font-family: var(--primary-font-size);
+    
 }
 
 button {cursor: pointer}
