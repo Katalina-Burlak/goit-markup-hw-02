@@ -4,9 +4,8 @@
     --secondary-color: color: #757575;
     --akcent-color: color: #2196F3;
     --primary-font: font-family: 'Roboto', sans-serif;
-    --secondary-font: font-family: 'Oleo Script', cursive;
-    --third-font:  font-family: 'Raleway', sans-serif;
-    --normal-font: 400;
+    --secondary-font: font-family: 'Raleway', sans-serif;
+     --normal-font: 400;
     --meduim-font: 500;
     --bold-font: 700;
     --bolder-font: 900;
@@ -96,6 +95,7 @@ color: #2196F3;
     text-decoration: none;
 
 }
+
 
 .menu-item-link:hover{
     color: #2196F3;
